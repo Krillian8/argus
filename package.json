@@ -1,0 +1,24 @@
+{
+  "name": "argus-trajectories",
+  "version": "0.2.0",
+  "description": "Causal trajectory engine for AI agents — pattern mining with retrocausal labeling. The all-seeing watchman. Zero dependencies.",
+  "type": "module",
+  "main": "argus.mjs",
+  "scripts": {
+    "demo": "node demo.mjs"
+  },
+  "keywords": [
+    "ai", "agent", "memory", "pattern-mining", "rag",
+    "trajectory", "reinforcement", "self-improvement", "llm"
+  ],
+  "author": "Krillian8",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Krillian8/argus"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
